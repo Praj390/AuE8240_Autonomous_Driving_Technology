@@ -8,4 +8,4 @@ Send the road sign information from the 2nd program to the 1st program through c
 ## Task 4: Vehicle Control
 Design appropriate HMI to intuitively display control commands (e.g., STOP SLOW DOWN) in the image at stop sign and school zone sign in the lane keeping program.
 
-The required file such as video and trained neural network can be found at https://drive.google.com/drive/u/0/folders/1Pedv8mTTAaFl5xKeTvKTkS7lK0ptXYA_
+The required file such as video and trained neural network can be found at https://drive.google.com/drive/folders/1Pedv8mTTAaFl5xKeTvKTkS7lK0ptXYA_?usp=sharing
